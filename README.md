@@ -1,7 +1,7 @@
 Hi 👋 My name is Javier González
 ================================
 
-developer
+Software developer
 ---------
 
 *   🌍  I'm based in Mexico
