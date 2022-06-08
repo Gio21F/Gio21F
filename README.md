@@ -35,7 +35,7 @@ Software developer
 ### Projects
 *  AllShop - E-Commerce (Next.js, React, Material UI, MongoDB) <a href="http://allshops.herokuapp.com/" target="_blank" rel="noreferrer">View</a>
 *  SpyMusic - Spotify Api Player (Next, React, Tailwind) <a href="https://spymusic.vercel.app/" target="_blank" rel="noreferrer">View</a>
-*  TasksBoards - (Next, React, MongoDB, Tailwind) <a href="http://allshops.herokuapp.com/" target="_blank" rel="noreferrer">View</a>
+*  TasksBoards - (Next, React, MongoDB, Tailwind) <a href="https://github.com/Gio21F/Next_TaskBoards" target="_blank" rel="noreferrer">View</a>
 *  Pokedex - Pokemon Api (Next, React, Material UI, SSG) <a href="https://next-pokedex-ssg.vercel.app/" target="_blank" rel="noreferrer">View</a>
 
 ### Support Me
