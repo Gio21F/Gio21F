@@ -6,7 +6,6 @@ Software developer
 
 *   🌍  I'm based in Mexico
 *   ✉️  You can contact me at [giovanigonzalezchavez@gmail.com](mailto:giovanigonzalezchavez@gmail.com)
-*   🚀  I'm currently working on [Alqua.io](https://alqua.io/)
 *   🧠  I'm learning data science
 *   🤝  I'm open to collaborating on React (NextJS, React Native(Expo) ), Node.js (NestJS, Express), Python(Django, Flask)
 ### Skills
@@ -31,12 +30,6 @@ Software developer
                     
 ### Socials
 <p align="left"> <a href="https://www.github.com/Gio21F" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/javier-giovani-gonzález-994984205" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Projects
-*  AllShop - E-Commerce (Next.js, React, Material UI, MongoDB)
-*  SpyMusic - Spotify Api Player (Next, React, Tailwind) <a href="https://spy-music.vercel.app/" target="_blank" rel="noreferrer">View</a>
-*  TasksBoards - (Next, React, MongoDB, Tailwind) <a href="https://github.com/Gio21F/Next_TaskBoards" target="_blank" rel="noreferrer">View</a>
-*  Pokedex - Pokemon Api (Next, React, Material UI, SSG) <a href="https://next-pokedex-ssg.vercel.app/" target="_blank" rel="noreferrer">View</a>
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/javier21"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
